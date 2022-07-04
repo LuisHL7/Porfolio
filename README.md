@@ -4,7 +4,7 @@ En este repositorio están enlazados cada unos de mis proyectos desarrollados du
 ## Proyectos Android
 
 1. [List of musical albums](https://github.com/LuisHL7/music-album.git)
-2. [Programación](https://github.com/LuisHL7/Programacion.git)
+
 
 
 ## Proyectos Python
@@ -12,6 +12,7 @@ En este repositorio están enlazados cada unos de mis proyectos desarrollados du
 1.-[Proyecto Tienda](https://github.com/LuisHL7/proyect-store.git)
 
 ## Proyectos Java
+2. [Proyecto Chat](https://github.com/LuisHL7/project-chat.git)
 
 ## Proyectos Flutter
 
