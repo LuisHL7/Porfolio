@@ -12,7 +12,7 @@ En este repositorio están enlazados cada unos de mis proyectos desarrollados du
 1.-[Proyecto Tienda](https://github.com/LuisHL7/proyect-store.git)
 
 ## Proyectos Java
-2. [Proyecto Chat](https://github.com/LuisHL7/project-chat.git)
+1. [Proyecto Chat](https://github.com/LuisHL7/project-chat.git)
 
 ## Proyectos Flutter
 
