@@ -13,6 +13,7 @@ En este repositorio están enlazados cada unos de mis proyectos desarrollados du
 
 ## Proyectos Java
 1. [Proyecto Chat](https://github.com/LuisHL7/project-chat.git)
+2. [Proyecto Juego Ahorcado](https://github.com/LuisHL7/juego-ahorcado.git)
 
 ## Proyectos Flutter
 
